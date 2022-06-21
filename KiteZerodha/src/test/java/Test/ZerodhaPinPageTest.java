@@ -41,4 +41,14 @@ public class ZerodhaPinPageTest {
 			String requiredTitle = "Dashboard / Kite";
 			Assert.assertEquals(homepage, requiredTitle);
 		}
+		@Test
+		public void test() {
+			System.out.println("Son");
+		}
+		
+		@Test
+		public void test1() {
+			System.out.println("Sonw");
+		}
+		
 }
